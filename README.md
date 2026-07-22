@@ -12,7 +12,7 @@ Before running the code on physical hardware, the circuit was designed and simul
 4. Attached the PWM (Pulse Width Modulation) signal wires of the servos to Arduino digital pins **3, 5, 6, and 9**.
 5. Implemented the C++ code to control the movement timing using the `millis()` function instead of standard delays to track elapsed time accurately.
 
-![Tinkercad Circuit Simulation](image_7daed1.png)
+![Tinkercad Circuit Simulation](image_servo-sim.png)
 
 ---
 
